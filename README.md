@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:0056b3&height=300&section=header&text=Diamond%20Osas&fontSize=90&animation=fadeIn&fontAlignY=12&desc=Backend%20Dev%20%7C%20Software%20Engineering%20Student%20%7C%20Golang%20Enthusiast&descAlignY=51&descAlign=62&fontColor=ffffff)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:0056b3&height=300&section=header&text=Diamond%20Osas&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Dev%20%7C%20Architecture%20Engineering%20Student%20%7C%20Golang%20%7C%20Python%20%7C%20JS&descAlignY=51&descAlign=62&fontColor=ffffff)
 
   ### 🚀 ** I Build Backend. Simple. **
 
