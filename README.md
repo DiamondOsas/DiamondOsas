@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9d58&height=300&section=header&text=Diamond%20Osas&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Architect%20%7C%20Software%20Engineering%20Student%20%7C%20Golang%20Enthusiast&descAlignY=51&descAlign=62)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:0056b3&height=300&section=header&text=Diamond%20Osas&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Architect%20%7C%20Software%20Engineering%20Student%20%7C%20Golang%20Enthusiast&descAlignY=51&descAlign=62)
 
   ### 🚀 **Building Scalable, Reliable & Secure Backend Systems**
 
@@ -89,6 +89,6 @@ My passion lies in the **invisible logic** that powers applications—ensuring d
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 
-  <p><i>"Quality code is the best documentation."</i></p>
+  <p><i>My best Programming Quote : "Quality code is the best documentation."</i></p>
 
 </div>
