@@ -6,15 +6,15 @@
    <br>
 
 <p align="center">
-  <a href="https://diamond-osas-portfolio.vercel.app/" style="margin: 6px;">&nbsp;
+  <a href="https://diamond-osas-portfolio.vercel.app/" >
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0f9d58?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
-  <a href="https://github.com/DiamondOsas" style="margin: 6px;">&nbsp;
+  <a href="https://github.com/DiamondOsas" 
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="mailto:diamondosazuwa@gmail.com" style="margin: 6px;" >
+  <a href="mailto:diamondosazuwa@gmail.com" >
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -40,7 +40,7 @@ I Have BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux
 
 ---
 
-###  **Tech Stack & Arsenal**
+###  **What I am Pretty Good At **
 
 <div align="center">
 
@@ -73,7 +73,7 @@ I Have BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiamondOsas&theme=radical&hide_border=true&background=0d1117&ring=0f9d58&fire=0f9d58&currStreakLabel=0f9d58" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=DiamondOsas&theme=radical&hide_border=true&background=0d1117&ring=0f9d58&fire=0f9d58&currStreakLabel=0f9d58" alt="streak graph" />
 </div>
 
 ---
