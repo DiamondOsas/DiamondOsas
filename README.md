@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:0056b3&height=300&section=header&text=Diamond%20Osas&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Architect%20%7C%20Software%20Engineering%20Student%20%7C%20Golang%20Enthusiast&descAlignY=51&descAlign=62&fontColor=ffffff)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:0056b3&height=300&section=header&text=Diamond%20Osas&fontSize=90&animation=fadeIn&fontAlignY=12&desc=Backend%20Dev%20%7C%20Software%20Engineering%20Student%20%7C%20Golang%20Enthusiast&descAlignY=51&descAlign=62&fontColor=ffffff)
 
-  ### 🚀 **Building Scalable, Reliable & Secure Backend Systems**
+  ### 🚀 ** I Build Backend. Simple. **
 
   <p align="center">
     <a href="https://diamond-osas-portfolio.vercel.app/">
@@ -11,7 +11,7 @@
     <a href="https://github.com/DiamondOsas">
       <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:diamondosazuwa@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -21,7 +21,7 @@
 
 ### 🧐 **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="/assets/pic.png" />
 
 I'm **Diamond Osazuwa Eyinjuoluwa**, a **2nd‑year Software Engineering student** at **Mountain Top University**. I specialize in crafting high-performance backend architectures and distributed systems.
 
@@ -77,13 +77,13 @@ My passion lies in the **invisible logic** that powers applications—ensuring d
 
 <div align="center">
   
-  ### 🤝 **Let's Connect**
+  ### 🤝 **Connnect With MEE **
 
   <a href="https://t.me/yourtelegram">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn " />
   </a>
   <a href="https://twitter.com/yourtwitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
