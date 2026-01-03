@@ -1,80 +1,94 @@
-# Diamond Osazuwa Eyinjuoluwa
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9d58&height=300&section=header&text=Diamond%20Osas&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Architect%20%7C%20Software%20Engineering%20Student%20%7C%20Golang%20Enthusiast&descAlignY=51&descAlign=62)
 
-> **Software Engineering Student & Backend Developer**
+  ### 🚀 **Building Scalable, Reliable & Secure Backend Systems**
 
-[Portfolio](https://diamond-osas-portfolio.vercel.app/) • [GitHub](https://github.com/DiamondOsas) • [Telegram](https://t.me)
-
----
-
-## ✨ About Me
-
-I’m **Diamond Osazuwa Eyinjuoluwa**, a 2nd‑year Software Engineering student at Mountain Top University, focused on building fast, reliable backend systems. I enjoy designing and shipping backend services using **Golang** and **Python**, containerizing with **Docker**, and deploying to cloud platforms like **AWS, **Koyeb** **Render**.
-
-**Current focus:** Backend architecture, scalable systems, and software reliability.
-
----
-
-## 🛠️ Tech & Tools
-
-Golang · Python · JavaScript · TypeScript · Docker · REST APIs · Networking · Git/GitHub · Koyeb · Render · CI/CD · Testing
-
----
-
-## 🚀 Featured Projects
-
-> (Click the project name to open the GitHub repo or the demo from the portfolio.)
-
-* **QuizNation** — a quiz platform for creating and taking quizzes. (Repo link placeholder)
-* **Simple Python SpamBot (AI/ML)** — a small project demonstrating basic spam detection and automation using Python. (Repo link placeholder)
-* **Attendance Tracker** — an attendance tracking system with a backend for storing and validating attendance events. (Repo link placeholder)
-* **VorifyMe** — Backend architecture and security/verification system (contribution / lead developer role). (Repo link placeholder)
-* **TaxMate / Tax Management Application** — backend for tax computation and management, deployed to Render/Koyeb. (Repo link placeholder)
-
-> *I pulled these project names and roles from your portfolio — feel free to provide repo links and short descriptions for each project where you'd like them to be more detailed.*
+  <p align="center">
+    <a href="https://diamond-osas-portfolio.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0f9d58?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://github.com/DiamondOsas">
+      <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🧩 What I Do
+### 🧐 **About Me**
 
-* Design and implement RESTful APIs and backend services with Go and Python.
-* Containerize applications with Docker and deploy to cloud providers.
-* Build systems with a focus on performance, safety, and clean code.
-* Contribute to open source and collaborate on team projects.
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
----
+I'm **Diamond Osazuwa Eyinjuoluwa**, a **2nd‑year Software Engineering student** at **Mountain Top University**. I specialize in crafting high-performance backend architectures and distributed systems.
 
-## 🧾 Experience & Contributions
+My passion lies in the **invisible logic** that powers applications—ensuring data flows securely, APIs respond instantly, and servers scale effortlessly. When I'm not studying or coding, I'm contributing to open-source or learning the latest cloud-native technologies.
 
-* **Lead Developer — VorifyMe**
+- 🔭 **I’m currently working on:** Scalable microservices in **Go**.
+- 🌱 **I’m currently learning:** Distributed Systems & Observability.
+- 👯 **I’m looking to collaborate on:** Open-source backend tools and cloud infrastructure projects.
+- 💬 **Ask me about:** Golang, API Design, Docker, and System Architecture.
 
-  * Architected backend services in Go; focused on data protection and secure verification.
-  * Containerized services using Docker and managed deployments.
-
-* **Full Stack Developer — Tax Management Application**
-
-  * Implemented backend logic for tax calculations and data storage.
-  * Deployed services to Render and Koyeb.
-
-* **Volunteer Contributor — Aethel**
-
-  * Contributed to an open-source productivity canvas; participated in code reviews and feature work.
+<br clear="right"/>
 
 ---
 
-## 🎯 Goals
+### 🛠️ **Tech Stack & Arsenal**
 
-* Secure an internship or junior backend role to work on production systems.
-* Deepen knowledge in distributed systems, observability, and security.
-* Expand open-source contributions and collaborate on larger projects.
+<div align="center">
 
----
+| **Languages** | **Backend & Frameworks** | **DevOps & Cloud** | **Tools & Others** |
+|:---:|:---:|:---:|:---:|
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) | ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Gin](https://img.shields.io/badge/Gin_Gonic-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![Koyeb](https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
-## 📫 Contact
-
-* **Email:** *[your-email@example.com](mailto:your-email@example.com)* (please update)
-* **Portfolio:** [https://diamond-osas-portfolio.vercel.app/](https://diamond-osas-portfolio.vercel.app/)
-* **GitHub:** [https://github.com/DiamondOsas](https://github.com/DiamondOsas)
-* **Telegram:** (link on portfolio)
+</div>
 
 ---
 
+### 💎 **Featured Projects**
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🔐 VorifyMe** | **Lead Developer**. A robust backend architecture focused on data protection and secure user verification. Containerized and deployed for reliability. | ![Go](https://img.shields.io/badge/-Go-00ADD8) ![Docker](https://img.shields.io/badge/-Docker-2496ED) ![Security](https://img.shields.io/badge/-Security-red) |
+| **💰 TaxMate** | **Full Stack Dev**. A comprehensive tax management application. Implemented complex backend logic for tax computation and data storage. | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E) ![Render](https://img.shields.io/badge/-Render-46E3B7) |
+| **🧠 QuizNation** | A dynamic quiz platform allowing users to create, share, and take quizzes in real-time. | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Backend](https://img.shields.io/badge/-Backend-black) |
+| **🤖 Aethel** | **Open Source Contribution**. An AI-powered productivity canvas. Collaborated on feature implementation and code reviews. | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC) ![OpenSource](https://img.shields.io/badge/-OpenSource-green) |
+
+---
+
+### 📊 **GitHub Statistics**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiamondOsas&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=0f9d58&icon_color=0f9d58" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondOsas&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0f9d58" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiamondOsas&theme=radical&hide_border=true&background=0d1117&ring=0f9d58&fire=0f9d58&currStreakLabel=0f9d58" alt="streak graph" />
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🤝 **Let's Connect**
+
+  <a href="https://t.me/yourtelegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourtwitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+
+  <p><i>"Quality code is the best documentation."</i></p>
+
+</div>
