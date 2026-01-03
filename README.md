@@ -2,20 +2,22 @@
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:0056b3&height=300&section=header&text=Diamond%20Osas&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Dev%20%7C%20Architecture%20Engineering%20Student%20%7C%20Golang%20%7C%20Python%20%7C%20JS&descAlignY=51&descAlign=62&fontColor=ffffff)
 
-  ### 🚀 **I Build Backend. Simple.**
+  ### 🚀 **I Build Backend & Frontend. Simple.**
 
-  <p align="center">
-    <a href="https://diamond-osas-portfolio.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0f9d58?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://github.com/DiamondOsas">
-      <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="mailto:diamondosazuwa@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://diamond-osas-portfolio.vercel.app/" style="margin-right: 6px;">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0f9d58?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/DiamondOsas" style="margin-right: 6px;">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:diamondosazuwa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
@@ -23,11 +25,10 @@
 
 <img align="right" alt="Coding" width="400" src="/assets/pic.png" />
 
-I'm **Diamond Osazuwa Eyinjuoluwa**, a **2nd‑year Software Engineering student** at **Mountain Top University**. I specialize in crafting high-performance backend architectures and distributed systems.
+I'm **Diamond Osazuwa**, a **2nd‑year Software Engineering student** at **Mountain Top University**. I specialize in creating high performance Bacekdn Applications using Golang and Python.
 
-My passion lies in the **invisible logic** that powers applications—ensuring data flows securely, APIs respond instantly, and servers scale effortlessly. When I'm not studying or coding, I'm contributing to open-source or learning the latest cloud-native technologies.
-
-- 🔭 **I’m currently working on:** Scalable microservices in **Go**.
+I Have BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux, Macos) |   
+- 🔭 **I’m currently working on:** **ClipSync** using Golang and BATCH  
 - 🌱 **I’m currently learning:** Distributed Systems & Observability.
 - 👯 **I’m looking to collaborate on:** Open-source backend tools and cloud infrastructure projects.
 - 💬 **Ask me about:** Golang, API Design, Docker, and System Architecture.
@@ -40,12 +41,22 @@ My passion lies in the **invisible logic** that powers applications—ensuring d
 
 <div align="center">
 
-| **Languages** | **Backend & Frameworks** | **DevOps & Cloud** | **Tools & Others** |
-|:---:|:---:|:---:|:---:|
-| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) | ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Gin](https://img.shields.io/badge/Gin_Gonic-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![Koyeb](https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Gin](https://img.shields.io/badge/Gin_Gonic-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Koyeb](https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
