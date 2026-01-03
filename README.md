@@ -3,13 +3,14 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:222222&height=300&section=header&text=Diamond%20Osas&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20Go%20%7C%20Python%20%7C%20JS&descAlignY=58&descAlign=50&descSize=25&stroke=00d4ff&strokeWidth=1)
 
   ###  **I Build Backend & Frontend. Simple.**
+   <br>
 
 <p align="center">
-  <a href="https://diamond-osas-portfolio.vercel.app/" style="margin: 6px;">
+  <a href="https://diamond-osas-portfolio.vercel.app/" style="margin: 6px;">&nbsp;
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0f9d58?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
-  <a href="https://github.com/DiamondOsas" style="margin: 6px;">
+  <a href="https://github.com/DiamondOsas" style="margin: 6px;">&nbsp;
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
@@ -72,7 +73,7 @@ I Have BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiamondOsas&theme=radical&hide_border=true&background=0d1117&ring=0f9d58&fire=0f9d58&currStreakLabel=0f9d58" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=DiamondOsas&theme=radical&hide_border=true&background=0d1117&ring=0f9d58&fire=0f9d58&currStreakLabel=0f9d58" alt="streak graph" />
 </div>
 
 ---
