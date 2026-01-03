@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=slice&color=0:111111,100:222222&height=300&section=header&text=Diamond%20Osas&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20Go%20%7C%20Python%20%7C%20JS&descAlignY=58&descAlign=50&descSize=25&stroke=00d4ff&strokeWidth=1)
+![Header](https://capsule-render.vercel.app/api?type=slice&color=0:111111,100:222222&height=300&section=header&text=Diamond%20Osas&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Engineering%20%7C%20Go%20%7C%20Python%20%7C%20JS&descAlignY=58&descAlign=50&descSize=25&stroke=00d4ff&strokeWidth=1)
 
   ###  **I Build Backend & Frontend. Simple.**
 
@@ -25,13 +25,15 @@
 
 <img align="right" alt="Coding" width="400" src="/assets/pic.png" />
 
-I'm **Diamond Osazuwa**, a **2nd‑year Software Engineering student** at **Mountain Top University**. I specialize in creating high performance Bacekdn Applications using Golang and Python.
+I'm **Diamond Osazuwa**, **2nd‑year Software Engineering student**. I specialize in creating high performance Backend Applications using Golang and Python.
 
-I Have BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux, Macos) |   
+I Have BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux, Macos) | **Telegam Bots** | and many more...
+
 - **I’m currently working on:** **ClipSync** using Golang and BATCH  
 - **I’m currently learning:** KOTLIN (Andorid Dev)
 - **I’m looking to collaborate on:** Open-source backend tools and cloud infrastructure projects.
-- **Ask me about:** Nothing.
+
+<!-- **NOTE:** My Code is More Stable than my Mental Health -->
 
 <br clear="right"/>
 
@@ -49,33 +51,25 @@ I Have BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-  ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+  ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=red)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Gin](https://img.shields.io/badge/Gin_Gonic-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![Koyeb](https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white)
+  ![Flask]()
+  
+
 
 
 </div>
 
----
 
-### 💎 **Featured Projects**
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| ** VorifyMe** | **Lead Developer**. A robust backend architecture focused on data protection and secure user verification. Containerized and deployed for reliability. | ![Go](https://img.shields.io/badge/-Go-00ADD8) ![Docker](https://img.shields.io/badge/-Docker-2496ED) ![Security](https://img.shields.io/badge/-Security-red) |
-| ** TaxMate** | **Full Stack Dev**. A comprehensive tax management application. Implemented complex backend logic for tax computation and data storage. | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E) ![Render](https://img.shields.io/badge/-Render-46E3B7) |
-| ** QuizNation** | A dynamic quiz platform allowing users to create, share, and take quizzes in real-time. | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Backend](https://img.shields.io/badge/-Backend-black) |
-| ** Aethel** | **Open Source Contribution**. An AI-powered productivity canvas. Collaborated on feature implementation and code reviews. | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC) ![OpenSource](https://img.shields.io/badge/-OpenSource-green) |
-
----
 
 ### 📊 **GitHub Statistics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiamondOsas&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=0f9d58&icon_color=0f9d58" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiamondOsas&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0f9d58" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-ten-rho-72.vercel.app/api?username=DiamondOsas&theme=blue_navy&show_icons=true&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats-ten-rho-72.vercel.app/api/top-langs/?username=DiamondOsas&theme=blue_navy&show_icons=true&hide_border=true&layout=donut" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
@@ -86,7 +80,7 @@ I Have BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux
 
 <div align="center">
   
-  ### 🤝 **Connnect With MEE **
+  ### 🤝 **Connnect With Meee **
 
   <a href="https://t.me/yourtelegram">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
