@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0f9d58?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
-  <a href="https://github.com/DiamondOsas" 
+  <a href="https://github.com/DiamondOsas">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
@@ -24,15 +24,20 @@
 
 ### 🧐 **About Me**
 
-<img align="right" alt="Coding" width="400" src="/assets/pic.png" />
+<img align="right" alt="Coding" width="300" src="/assets/pic.png" />
 
-I'm **Diamond Osazuwa**, **2nd‑year Software Engineering student**. I specialize in creating high performance Backend Applications using Golang and Python.
+I'm **Diamond Osazuwa**, **2nd‑year Software Engineering student**.  I specialize in creating high performance Backend Applications using Golang and Python.
 
-I Have BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux, Macos) | **Telegam Bots** | and many more...
+I Have BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux, Macos) | **Telegam Bots** | and more...
 
 - **I’m currently working on:** **ClipSync** using Golang and BATCH  
+
 - **I’m currently learning:** KOTLIN (Andorid Dev)
-- **I’m looking to collaborate on:** Open-source backend tools and cloud infrastructure projects.
+
+- **I’m looking to collaborate on:** Open-source backend tools and cloud infrastructure projects. Python Projects will also be appreciated.
+
+
+
 
 <!-- **NOTE:** My Code is More Stable than my Mental Health -->
 
@@ -40,7 +45,7 @@ I Have BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux
 
 ---
 
-###  **What I am Pretty Good At **
+###  **Tools I Use**
 
 <div align="center">
 
@@ -73,7 +78,7 @@ I Have BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=DiamondOsas&theme=radical&hide_border=true&background=0d1117&ring=0f9d58&fire=0f9d58&currStreakLabel=0f9d58" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=DiamondOsas&theme=radical&hide_border=true&background=0D1117&ring=0F9D58&fire=0F9D58&currStreakLabel=0F9D58" alt="streak graph" />
 </div>
 
 ---
@@ -85,11 +90,11 @@ I Have BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux
   <a href="https://t.me/yourtelegram">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn " />
+  <a href="https://discord.com/users/1419789497155063979">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://twitter.com/yourtwitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://wa.me/2349138305164">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" />
   </a>
 
   <p><i>My best Programming Quote : "Quality code is the best documentation."</i></p>
