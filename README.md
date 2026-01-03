@@ -1,19 +1,19 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=slice&color=0:111111,100:222222&height=300&section=header&text=Diamond%20Osas&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Engineering%20%7C%20Go%20%7C%20Python%20%7C%20JS&descAlignY=58&descAlign=50&descSize=25&stroke=00d4ff&strokeWidth=1)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:222222&height=300&section=header&text=Diamond%20Osas&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20Go%20%7C%20Python%20%7C%20JS&descAlignY=58&descAlign=50&descSize=25&stroke=00d4ff&strokeWidth=1)
 
   ###  **I Build Backend & Frontend. Simple.**
 
 <p align="center">
-  <a href="https://diamond-osas-portfolio.vercel.app/" style="margin-right: 6px;">
+  <a href="https://diamond-osas-portfolio.vercel.app/" style="margin: 6px;">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0f9d58?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
-  <a href="https://github.com/DiamondOsas" style="margin-right: 6px;">
+  <a href="https://github.com/DiamondOsas" style="margin: 6px;">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="mailto:diamondosazuwa@gmail.com">
+  <a href="mailto:diamondosazuwa@gmail.com" style="margin: 6px;" >
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -44,12 +44,13 @@ I Have BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux
 <div align="center">
 
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=red)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -68,10 +69,7 @@ I Have BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux
 
 ### 📊 **GitHub Statistics**
 
-<div align="center">
-  <img src="https://github-readme-stats-ten-rho-72.vercel.app/api?username=DiamondOsas&theme=blue_navy&show_icons=true&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats-ten-rho-72.vercel.app/api/top-langs/?username=DiamondOsas&theme=blue_navy&show_icons=true&hide_border=true&layout=donut" height="180" alt="languages graph" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiamondOsas&theme=radical&hide_border=true&background=0d1117&ring=0f9d58&fire=0f9d58&currStreakLabel=0f9d58" alt="streak graph" />
