@@ -56,7 +56,8 @@ I Have BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Gin](https://img.shields.io/badge/Gin_Gonic-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![Koyeb](https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white)
-  ![Flask]()
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![Batch](https://img.shields.io/badge/Batch-C71585?style=for-the-badge&logo=windows&logoColor=white)
   
 
 
