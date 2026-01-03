@@ -36,7 +36,7 @@ I Have BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux
 - **I’m looking to collaborate on:** Open-source backend tools and cloud infrastructure projects. Python Projects will also be appreciated.
 
 
-To se
+
 
 
 
@@ -79,7 +79,7 @@ To se
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DiamondOsas&theme=radical&hide_border=true&background=0D1117&ring=0F9D58&fire=0F9D58&currStreakLabel=0F9D58" />
+  <img src="https://github-readme-streak-stats-ten-peach.vercel.app/?user=DiamondOsas&theme=blue-navy&hide_border=true" />
 </p>
 
 ---
