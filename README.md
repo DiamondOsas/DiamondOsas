@@ -25,7 +25,7 @@
 
 <img align="right" alt="Coding" width="300" src="/assets/pic.png" />
 
-I'm **Diamond Osazuwa**, **2nd‑year Software Engineering student**.  I specialize in creating high performance Backend Applications using Golang and Python.
+Just a Teen Obsessed With Computer. I broken more things than i have built them mission is to do the reverse uno on that. I specialize in creating high performance Backend Applications using Golang and Python.
 
 I Have BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux, Macos) | **Telegam Bots** | and more...
 
