@@ -2,7 +2,6 @@
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:222222&height=300&section=header&text=Diamond%20Osas&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Go%20%7C%20Python%20%7C%20JS%20%7C%20TS&descAlignY=58&descAlign=50&descSize=25&stroke=00d4ff&strokeWidth=1)
 
-  ###  **I Build Backend & Frontend. Simple.**
 
 <p align="center">
   <a href="https://diamond-osas-portfolio.vercel.app/" target="_blank" rel="noopener norefeerer" >
@@ -27,7 +26,7 @@
 
 Just a Teen Obsessed With Computer. I've broken more things than I have built, so my mission is to play reverse uno asap. I specialize in creating high performance Backend Applications using Golang and Python.
 
-I Have BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux, Macos) | **Telegam Bots** | and more...
+ BUILT | **Websites**(Fullstack) | **Native Applications** (Windows, Linux, Macos) | **Telegam Bots** | and more...
 
 - **I’m currently working on:** **ClipSync** using Golang and BATCH  
 
