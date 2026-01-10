@@ -96,7 +96,7 @@ Just a Teen Obsessed With Computer. I've broken more things than I have built, s
   <a href="https://wa.me/2349138305164">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" />
   </a>
-
-  <p><i>My best Programming Quote : "Quality code is the best documentation."</i></p>
+  <br>
+  <p><i>My best Programming Quote : "Make it WORK, then Make it RIGHT, then Make it FAST."</i></p>
 
 </div>
