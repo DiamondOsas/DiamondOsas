@@ -22,7 +22,7 @@
 
 ### 🧐 **About Me**
 
-<img align="right" alt="Coding" width="300" src="/assets/pic.png" />
+<!-- <img align="right" alt="Coding" width="300" src="/assets/pic.png" /> -->
 
 Just a Teen Obsessed With Computer. I've broken more things than I have built, so my mission is to play reverse uno asap. I specialize in creating high performance Backend Applications using Golang and Python.
 
